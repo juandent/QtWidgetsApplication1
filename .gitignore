@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+*.zip
+*.json
+*.command
+/x64
+/.vs/QtWidgetsApplication1
